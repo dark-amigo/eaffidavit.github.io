@@ -60,11 +60,11 @@
 
 										<div class="field half">
 											<label for="name">Full Name | മുഴുവൻ പേര്</label>
-											<input type="text" name="name" id="name" required/>
+											<input type="text" name="name" id="name" required />
 										</div>
 										<div class="field half">
 											<label for="email">Vehicle Type | വാഹന ഇനം</label>
-											<input type="text" name="vehicle_type" id="vehicle_type" />
+											<input type="text" name="vehicle_type" id="vehicle_type" placeholder="Car/Bike/..."/>
 										</div>
 										<div class="field half">
 											<label for="name">Vehicle Number | വാഹന നമ്പർ</label>
@@ -72,11 +72,11 @@
 										</div>
 										<div class="field half">
 											<label for="email">Return Date/Time | മടക്ക തീയതി / സമയം</label>
-											<input type="text" name="return_d_t" id="return_d_t" required/>
+											<input type="text" name="return_d_t" id="return_d_t" required placeholder="18/10/2021 or 12:30 pm"/>
 										</div>
 										<div class="field">
 											<label for="email">Reason | കാരണം</label>
-											<input type="text" name="reason" id="reason" required/>
+											<input type="text" name="reason" id="reason" required placeholder="Buying grocery"/>
 										</div>
 										<div class="field half">
 											<label for="name">Mobile Number | മൊബൈൽ നമ്പർ</label>
