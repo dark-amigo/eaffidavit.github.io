@@ -37,7 +37,7 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="images/E-പ്രസ്താവന.jpg" alt="" /></span>
+								<span class="image main"><img src="images/E-പ്രസ്താവന (1).jpg" alt="" /></span>
 								<p>It has been a lot since we are 'LOCKED' because of the pandemic. As the show should go on, we have to go out for various reasons of our own.
 									Affidavit is a must for the same. But, have you ever thought of wasting a whole sheet of paper each and every time we step out of our houses? 
 									Is it fair? The reason behind <b><em>E-Declaration</em></b> is the answer we got when we asked this question ourselves. 
