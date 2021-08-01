@@ -20,7 +20,7 @@ if(!empty($_POST['submit'])){
     $pdf->AddPage();
 
     $pdf->SetFont("Arial","",16);
-    $pdf->Cell(0,60,"AFFIDEVIT",0,1,'C');
+    $pdf->Cell(0,60,"AFFIDAVIT",0,1,'C');
 
    $pdf->Cell(0,10,"I $name, am traveling ",0,1,'C');
    $pdf->Cell(0,10," in a/an $v_type  with the number $v_number ",0,1,'C');
