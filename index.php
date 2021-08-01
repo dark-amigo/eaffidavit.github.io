@@ -54,7 +54,7 @@
 					
 						<!-- Contact -->
 							<article id="english">
-								<h2 class="major">AFFIDAVIT | സത്യവാങ്മൂലം</h2>
+								<h2 class="major">AFFIDAVIT <b>|</b> h2><h4>സത്യവാങ്മൂലം</h4>
 								<form method="post" action="English/english_pdf.php">
 									<div class="fields">
 
