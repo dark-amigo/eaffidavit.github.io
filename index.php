@@ -24,8 +24,8 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#intro">Intro</a></li>
-								<li><a href="#english">English</a></li>
+								<li><a href="#intro">Why?</a></li>
+								<li><a href="#english">Affidavit</a></li>
 								<!--<li><a href="#malayalam">മലയാളം</a></li>-->
 							</ul>
 						</nav>
@@ -54,7 +54,7 @@
 					
 						<!-- Contact -->
 							<article id="english">
-								<h2 class="major">AFFIDAVIT <b>|</b> </h2><h4 class="major">സത്യവാങ്മൂലം</h4>
+								<h2 class="major">AFFIDAVIT</h2><h3 class="major">സത്യവാങ്മൂലം</h3>
 								<form method="post" action="English/english_pdf.php">
 									<div class="fields">
 
